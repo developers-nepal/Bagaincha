@@ -13,6 +13,6 @@
 
 ### Blogs
 - [milkandcigarettes.so](http://milkandcigarettes.so/) 
-- [Process is Messy(by Prashish Rajbhandari)](http://prashish.me/)
+- [prashish.me](http://prashish.me/) (process is messy)
 
 Pull Request is sufficient to add your project, contributions for this Readme file.
