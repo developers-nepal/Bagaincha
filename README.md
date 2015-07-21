@@ -12,8 +12,8 @@
 - [Nepali Transliteration](https://rabishah.github.io/nepali-unicode/)
 
 ### Blogs
+- [cafecod.es](http://cafecod.es/)
 - [milkandcigarettes.so](http://milkandcigarettes.so/) 
 - [prashish.me](http://prashish.me/) (process is messy)
-- [cafecod.es](http://cafecod.es/)
 - 
 Pull Request is sufficient to add your project, contributions for this Readme file.
