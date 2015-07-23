@@ -10,11 +10,13 @@
 
 ### Projects
 - [Alert.js](https://github.com/ankitpokhrel/alert.js/)
+- [Dynamic Featured Image](https://github.com/ankitpokhrel/Dynamic-Featured-Image)
 - [Encrypted Shell Backdoor](https://github.com/techgaun/bash-backdoor)
 - [Exploit DB Search](https://github.com/techgaun/exploit-db-search)
 - [Nepali Transliteration](https://rabishah.github.io/nepali-unicode/)
 - [Prepros](https://github.com/Subash/Prepros)
 - [Unicode.js](https://github.com/ankitpokhrel/unicode.js)
+- [WooCommerce Multiple Free Gift](https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
 
 ### Blogs
 - [cafecod.es](http://cafecod.es/)
