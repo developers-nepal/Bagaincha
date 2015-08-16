@@ -16,10 +16,12 @@
 - [Exploit DB Search](https://github.com/techgaun/exploit-db-search)
 - [Nepali Transliteration](https://rabishah.github.io/nepali-unicode/)
 - [Prepros](https://github.com/Subash/Prepros)
+- [QuakeCL](https://github.com/studenton/QuakeCL)
 - [Unicode.js](https://github.com/ankitpokhrel/unicode.js)
 - [WooCommerce Multiple Free Gift](https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
 
 ### Blogs
+- [Amit Chaudhary] (http://www.studenton.com)
 - [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 - [cafecod.es](http://cafecod.es/)
 - [Digamber Pradhan](http://www.digamberpradhan.com.np/)
