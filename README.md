@@ -15,6 +15,7 @@
 - [DynamoDB Table Copy](https://github.com/techgaun/dynamodb-copy-table)
 - [Encrypted Shell Backdoor](https://github.com/techgaun/bash-backdoor)
 - [Exploit DB Search](https://github.com/techgaun/exploit-db-search)
+- [Get Nepali Number](https://github.com/techgaun/get-nepali-number)
 - [Github Dorks for sec-audit](https://github.com/techgaun/github-dorks)
 - [Hookah - Smoke testing library build on top of PHPUnit and Goutte](https://github.com/younginnovations/hookah)
 - [is-in-docker - check if process is running inside docker container](https://github.com/techgaun/is-in-docker)
