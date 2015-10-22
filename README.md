@@ -27,7 +27,6 @@
 - [WooCommerce Multiple Free Gift](https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
 
 ### Blogs
-- [Sandip Bhagat](http://sandipbgt.github.io)
 - [Amit Chaudhary] (http://www.studenton.com)
 - [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 - [cafecod.es](http://cafecod.es/)
@@ -39,6 +38,7 @@
 - [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
 - [prashish.me](http://prashish.me/) (process is messy) 
 - [samar.techgaun.com](http://samar.techgaun.com)
+- [Sandip Bhagat](http://sandipbgt.github.io)
 - [Umesh Ghimire](http://blog.umeshghimire.com.np/)
 
 Pull Request is sufficient to add your project, contributions for this Readme file.
