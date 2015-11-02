@@ -25,6 +25,7 @@
 - [Nepali Transliteration](https://rabishah.github.io/nepali-unicode/)
 - [Prepros](https://github.com/Subash/Prepros)
 - [QuakeCL](https://github.com/studenton/QuakeCL)
+- [Random Ukhaan Tukka](https://github.com/techgaun/ukhaan-tukka)
 - [Unicode.js](https://github.com/ankitpokhrel/unicode.js)
 - [WooCommerce Multiple Free Gift](https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
 
