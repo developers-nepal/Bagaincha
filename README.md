@@ -23,6 +23,7 @@
 - [is-in-docker - check if process is running inside docker container](https://github.com/techgaun/is-in-docker)
 - [Mustang - Video to GIF](https://github.com/techgaun/mustang)
 - [Nepali Transliteration](https://rabishah.github.io/nepali-unicode/)
+- [Nepse Rate API](https://github.com/acsudeep/nepserate)
 - [Prepros](https://github.com/Subash/Prepros)
 - [QuakeCL](https://github.com/studenton/QuakeCL)
 - [Thar](https://github.com/studenton/Thar) - Dataset of every Nepalese surname
