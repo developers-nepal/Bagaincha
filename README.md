@@ -15,6 +15,7 @@
 - [DynamoDB Table Copy](https://github.com/techgaun/dynamodb-copy-table)
 - [Encrypted Shell Backdoor](https://github.com/techgaun/bash-backdoor)
 - [Exploit DB Search](https://github.com/techgaun/exploit-db-search)
+- [gender-data : Dataset of first names and gender](https://github.com/studenton/gender-data)
 - [Get Nepali DayOfWeek - Get nepali day of week from Date object or index](https://github.com/techgaun/get-nepday-of-week)
 - [Get Nepali Number](https://github.com/techgaun/get-nepali-number)
 - [Ghatta - helper for generator-nm module](https://github.com/techgaun/ghatta)
