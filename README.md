@@ -31,6 +31,7 @@
 - [Thar](https://github.com/studenton/Thar) - Dataset of every Nepalese surname
 - [Unicode.js](https://github.com/ankitpokhrel/unicode.js)
 - [WooCommerce Multiple Free Gift](https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
+- [PHP frameworks nepali localization](https://github.com/devbks/phpFramework-nepali-lang)
 
 ### Blogs
 - [Amit Chaudhary] (http://www.studenton.com)
@@ -46,6 +47,6 @@
 - [samar.techgaun.com](http://samar.techgaun.com)
 - [Sandip Bhagat](http://sandipbgt.github.io)
 - [Umesh Ghimire](http://blog.umeshghimire.com.np/)
-
+- [Bishaw Kumar Shrestha](http://bks.com.np/blog)
 Pull Request is sufficient to add your project, contributions for this Readme file.
 
