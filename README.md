@@ -25,7 +25,7 @@
 - [Mustang - Video to GIF](https://github.com/techgaun/mustang)
 - [Nepali Transliteration](https://rabishah.github.io/nepali-unicode/)
 - [Nepse Rate API](https://github.com/acsudeep/nepserate)
-- [PHP frameworks nepali localization](https://github.com/devbks/phpFramework-nepali-lang)
+- [PHP Frameworks Nepali Localization](https://github.com/devbks/phpFramework-nepali-lang)
 - [Prepros](https://github.com/Subash/Prepros)
 - [QuakeCL](https://github.com/studenton/QuakeCL)
 - [Saancho](https://github.com/nepalihackers/saancho) - A command line password manager
