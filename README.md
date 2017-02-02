@@ -25,17 +25,18 @@
 - [Mustang - Video to GIF](https://github.com/techgaun/mustang)
 - [Nepali Transliteration](https://rabishah.github.io/nepali-unicode/)
 - [Nepse Rate API](https://github.com/acsudeep/nepserate)
+- [PHP frameworks nepali localization](https://github.com/devbks/phpFramework-nepali-lang)
 - [Prepros](https://github.com/Subash/Prepros)
 - [QuakeCL](https://github.com/studenton/QuakeCL)
 - [Saancho](https://github.com/nepalihackers/saancho) - A command line password manager
 - [Thar](https://github.com/studenton/Thar) - Dataset of every Nepalese surname
 - [Unicode.js](https://github.com/ankitpokhrel/unicode.js)
 - [WooCommerce Multiple Free Gift](https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
-- [PHP frameworks nepali localization](https://github.com/devbks/phpFramework-nepali-lang)
 
 ### Blogs
 - [Amit Chaudhary] (http://www.studenton.com)
 - [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
+- [Bishaw Kumar Shrestha](http://bks.com.np/blog)
 - [cafecod.es](http://cafecod.es/)
 - [Digamber Pradhan](http://www.digamberpradhan.com.np/)
 - [Geshan.com.np](http://geshan.com.np)
@@ -47,6 +48,6 @@
 - [samar.techgaun.com](http://samar.techgaun.com)
 - [Sandip Bhagat](http://sandipbgt.github.io)
 - [Umesh Ghimire](http://blog.umeshghimire.com.np/)
-- [Bishaw Kumar Shrestha](http://bks.com.np/blog)
+
 Pull Request is sufficient to add your project, contributions for this Readme file.
 
