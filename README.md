@@ -25,6 +25,7 @@
 - [Mustang - Video to GIF](https://github.com/techgaun/mustang)
 - [Nepali Transliteration](https://rabishah.github.io/nepali-unicode/)
 - [Nepse Rate API](https://github.com/acsudeep/nepserate)
+- [PHP Frameworks Nepali Localization](https://github.com/devbks/phpFramework-nepali-lang)
 - [Prepros](https://github.com/Subash/Prepros)
 - [QuakeCL](https://github.com/studenton/QuakeCL)
 - [Saancho](https://github.com/nepalihackers/saancho) - A command line password manager
@@ -35,6 +36,7 @@
 ### Blogs
 - [Amit Chaudhary] (http://www.studenton.com)
 - [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
+- [Bishaw Kumar Shrestha](http://bks.com.np/blog)
 - [cafecod.es](http://cafecod.es/)
 - [Digamber Pradhan](http://www.digamberpradhan.com.np/)
 - [Geshan.com.np](http://geshan.com.np)
