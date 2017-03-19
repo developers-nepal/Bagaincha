@@ -34,7 +34,7 @@
 - [WooCommerce Multiple Free Gift](https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
 
 ### Blogs
-- [Amit Chaudhary] (http://www.studenton.com)
+- [Amit Chaudhary](http://www.studenton.com)
 - [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 - [Bishaw Kumar Shrestha](http://bks.com.np/blog)
 - [cafecod.es](http://cafecod.es/)
