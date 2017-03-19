@@ -46,6 +46,7 @@
 - [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
 - [prashish.me](http://prashish.me/) (process is messy) 
 - [samar.techgaun.com](http://samar.techgaun.com)
+- [Samundra.com.np](http://www.samundra.com.np)
 - [Sandip Bhagat](http://sandipbgt.github.io)
 - [Umesh Ghimire](http://blog.umeshghimire.com.np/)
 
