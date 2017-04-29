@@ -15,7 +15,7 @@
 - [DynamoDB Table Copy](https://github.com/techgaun/dynamodb-copy-table)
 - [Encrypted Shell Backdoor](https://github.com/techgaun/bash-backdoor)
 - [Exploit DB Search](https://github.com/techgaun/exploit-db-search)
-- [gender-data : Dataset of first names and gender](https://github.com/studenton/gender-data)
+- [gender-data : Dataset of first names and gender](https://github.com/amitness/gender-data)
 - [Get Nepali DayOfWeek - Get nepali day of week from Date object or index](https://github.com/techgaun/get-nepday-of-week)
 - [Get Nepali Number](https://github.com/techgaun/get-nepali-number)
 - [Ghatta - helper for generator-nm module](https://github.com/techgaun/ghatta)
@@ -27,14 +27,14 @@
 - [Nepse Rate API](https://github.com/acsudeep/nepserate)
 - [PHP Frameworks Nepali Localization](https://github.com/devbks/phpFramework-nepali-lang)
 - [Prepros](https://github.com/Subash/Prepros)
-- [QuakeCL](https://github.com/studenton/QuakeCL)
+- [QuakeCL](https://github.com/amitness/QuakeCL)
 - [Saancho](https://github.com/nepalihackers/saancho) - A command line password manager
-- [Thar](https://github.com/studenton/Thar) - Dataset of every Nepalese surname
+- [Thar](https://github.com/amitness/Thar) - Dataset of every Nepalese surname
 - [Unicode.js](https://github.com/ankitpokhrel/unicode.js)
 - [WooCommerce Multiple Free Gift](https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
 
 ### Blogs
-- [Amit Chaudhary](http://www.studenton.com)
+- [Amit Chaudhary](http://www.amitness.com)
 - [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 - [Bishaw Kumar Shrestha](http://bks.com.np/blog)
 - [cafecod.es](http://cafecod.es/)
