@@ -36,18 +36,12 @@
 ### Blogs
 - [Amit Chaudhary](http://www.amitness.com)
 - [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
-- [Bishaw Kumar Shrestha](http://bks.com.np/blog)
-- [cafecod.es](http://cafecod.es/)
 - [Digamber Pradhan](http://www.digamberpradhan.com.np/)
 - [Geshan.com.np](http://geshan.com.np)
 - [Jeevan Chapagain](http://www.jeevanchapagain.com.np/)
 - [Lakshman Basnet](http://www.lakshmanbasnet.com.np/)
-- [milkandcigarettes.so](http://milkandcigarettes.so/)
 - [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
-- [prashish.me](http://prashish.me/) (process is messy) 
-- [samar.techgaun.com](http://samar.techgaun.com)
 - [Samundra.com.np](http://www.samundra.com.np)
-- [Sandip Bhagat](http://sandipbgt.github.io)
 - [Umesh Ghimire](http://blog.umeshghimire.com.np/)
 
 Pull Request is sufficient to add your project, contributions for this Readme file.
