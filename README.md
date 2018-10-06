@@ -41,6 +41,7 @@
 - [Jeevan Chapagain](http://www.jeevanchapagain.com.np/)
 - [Lakshman Basnet](http://www.lakshmanbasnet.com.np/)
 - [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
+- [Sameer Nyaupane](https://medium.com/@sameernyaupane)
 - [Samundra.com.np](http://www.samundra.com.np)
 - [Umesh Ghimire](http://blog.umeshghimire.com.np/)
 
