@@ -40,6 +40,7 @@
 - [Geshan.com.np](http://geshan.com.np)
 - [Jeevan Chapagain](http://www.jeevanchapagain.com.np/)
 - [Lakshman Basnet](http://www.lakshmanbasnet.com.np/)
+- [Madhu Sudhan Subedi](https://madhusudhansubedi.com.np/#blog)
 - [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
 - [Samundra.com.np](http://www.samundra.com.np)
 - [Umesh Ghimire](http://blog.umeshghimire.com.np/)
