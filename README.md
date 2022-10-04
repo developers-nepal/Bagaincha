@@ -22,6 +22,7 @@
 - [Github Dorks for sec-audit](https://github.com/techgaun/github-dorks)
 - [Hookah - Smoke testing library build on top of PHPUnit and Goutte](https://github.com/younginnovations/hookah)
 - [is-in-docker - check if process is running inside docker container](https://github.com/techgaun/is-in-docker)
+- [Metis Linux - Linux Based OS](https://github.com/metis-os)
 - [Mustang - Video to GIF](https://github.com/techgaun/mustang)
 - [Nepali Transliteration](https://rabishah.github.io/nepali-unicode/)
 - [Nepse Rate API](https://github.com/acsudeep/nepserate)
